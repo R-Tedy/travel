@@ -15,7 +15,7 @@ function Guide() {
           We are here for you
         </p>
         <div className='flex flex-wrap justify-between gap-5 lg:gap-10'>
-          <h2 className='bold-40 lg:bold-64 xl:max-w-[390px]'>Showing you the best way to follw</h2>
+          <h2 className='bold-40 lg:bold-64 xl:max-w-[390px]'>Showing you the best way to follow</h2>
           <p className='regular-16 text-gray-30 xl:max-w-[520px]'>With the Stedy Run app you will be able to have access to offline maps, and to on the call guiding systems to show you the path. We also have rangers on the ground to ensore the safety of every trail on our app and we will be there with a click of a button. The jungle doesn't always have to be scary, it can also be fun and full of so much love, family and adventure. Give us a chance to show you something better, give us a chance to give you awesomeness like never before. Enjoy.</p>
         </div>
       </div>
