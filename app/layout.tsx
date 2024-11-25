@@ -4,7 +4,7 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Travel App",
+  title: "Stedy Run",
   description: "A travel website model app",
 };
 
