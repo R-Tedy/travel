@@ -6,6 +6,7 @@ import GetApp from "./GetApp";
 import Guide from "./Guide";
 import Hero from "./Hero";
 import Navbar from "./Navbar";
+import CampSite from "./CampSite";
 
 export {
   Button,
@@ -16,4 +17,5 @@ export {
   Guide,
   Hero,
   Navbar,
+  CampSite,
 }
